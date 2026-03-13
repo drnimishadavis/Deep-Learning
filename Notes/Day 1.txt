@@ -1,0 +1,37 @@
+Python
+
+NumPy
+Pandas
+Matplotlib
+Seaborn
+
+Machine learning
+	membership : 1199/month
+	drive access : 3000 
+
+NLP
+Computer vision
+Deep learning
+
+
+Power BI
+	membership : 1199/month
+	drive access : 3000 
+
+
+Deep Learning
+---------------------
+AI
+ML - Subset of AI.
+DL - Special type of ML---Neural Network
+
+Huge availability of data
+Powerful GPUs
+Adv algo
+
+
+Face recognition
+self driving cars
+voice asst
+recommendation s/m
+
